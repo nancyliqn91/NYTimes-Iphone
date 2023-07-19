@@ -28,7 +28,7 @@ Install the Expo Go app on your iOS or Android phone and connect to the same wir
 ## 🌻 Iphone and Web Screenshot
 
 ### Iphone 
-![Screenshot of mobile](img/screenshot.png)
+![Screenshot of mobile](img/iphone.png)
 
 ### Web
 ![Screenshot of web](img/web.png)
